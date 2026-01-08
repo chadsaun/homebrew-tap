@@ -1,8 +1,8 @@
 class Gchat < Formula
   desc "Google Chat CLI - Send messages from the command line"
   homepage "https://github.com/chadsaun/gchat"
-  url "https://files.pythonhosted.org/packages/source/g/gchat-cli/gchat_cli-0.1.0.tar.gz"
-  sha256 "6cf3eeb13c46fb2e3c8e71dcc5b07515492356e716a53b1c27d73468c58cb68a"
+  url "https://files.pythonhosted.org/packages/source/g/gchat-cli/gchat_cli-0.2.1.tar.gz"
+  sha256 "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   license "MIT"
 
   depends_on "pipx"
